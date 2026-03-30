@@ -1174,5 +1174,229 @@
       40.5443,
       -74.1502
     ]
+  },
+  {
+    "id": "cleveland-vegan-lakewood",
+    "name": "Cleveland Vegan",
+    "address": "17112 Detroit Ave, Lakewood, OH 44107",
+    "neighborhood": "Lakewood",
+    "type": "100% Vegan",
+    "vegan_options": "Classic gyro, scratch bakery pastries, breakfast bowls, sandwiches, soups, full catering menu",
+    "deal": "",
+    "hours": "Tue–Sat 9am–9pm, Sun 9am–3pm",
+    "coordinates": [
+      41.48552,
+      -81.81615
+    ]
+  },
+  {
+    "id": "the-root-cafe-lakewood",
+    "name": "The Root Cafe",
+    "address": "15118 Detroit Ave, Lakewood, OH 44107",
+    "neighborhood": "Lakewood",
+    "type": "100% Vegan",
+    "vegan_options": "Tempeh Reuben, organic baked goods, espresso drinks, salads, calzones, seasonal soups",
+    "deal": "",
+    "hours": "Mon–Sun 8am–8pm",
+    "coordinates": [
+      41.485138,
+      -81.80208
+    ]
+  },
+  {
+    "id": "foodhisattva",
+    "name": "Foodhisattva",
+    "address": "2158 S Taylor Rd, Cleveland Heights, OH 44118",
+    "neighborhood": "Cleveland Heights",
+    "type": "100% Vegan",
+    "vegan_options": "Daikon cake, scratch-made seitan, house-made vegan cheeses and sauces, Asian-fusion small plates",
+    "deal": "",
+    "hours": "Thu–Sun 4–8:30pm",
+    "coordinates": [
+      41.50103,
+      -81.556175
+    ]
+  },
+  {
+    "id": "the-vegan-club",
+    "name": "The Vegan Club",
+    "address": "13228 Shaker Square, Cleveland, OH 44120",
+    "neighborhood": "Shaker Square",
+    "type": "100% Vegan",
+    "vegan_options": "Krab fries, Southern-inspired plant-based entrees, full bar with fresh cocktails, vegan desserts",
+    "deal": "",
+    "hours": "Mon–Fri 5–10pm, Sat 5–9pm, Sun 5–10pm",
+    "coordinates": [
+      41.48345,
+      -81.58981
+    ]
+  },
+  {
+    "id": "tommys-coventry",
+    "name": "Tommy's Restaurant",
+    "address": "1824 Coventry Rd, Cleveland Heights, OH 44118",
+    "neighborhood": "Coventry Village",
+    "type": "Vegan-Friendly",
+    "vegan_options": "Vegan toasted cheese on wheat pita, macrobiotic brown rice & veggies, Tofutti milkshakes, 14 falafel variations, tempeh entrees",
+    "deal": "",
+    "hours": "Mon–Sun 9am–9pm (Fri–Sat until 10pm)",
+    "coordinates": [
+      41.5099,
+      -81.58013
+    ]
+  },
+  {
+    "id": "johnny-mango-ohio-city",
+    "name": "Johnny Mango World Cafe & Bar",
+    "address": "3120 Bridge Ave, Cleveland, OH 44113",
+    "neighborhood": "Ohio City",
+    "type": "Vegan-Friendly",
+    "vegan_options": "Vegan pad thai, jackfruit tacos, tofu stir-fry, veggie burgers, fresh juices and smoothies",
+    "deal": "Happy hour Mon–Fri 4–7pm; Taco Tuesday  black bean tacos",
+    "hours": "Mon–Tue & Thu–Fri 12–9pm, Sat 10am–9pm",
+    "coordinates": [
+      41.483723,
+      -81.709984
+    ]
+  },
+  {
+    "id": "amba-ohio-city",
+    "name": "Amba",
+    "address": "1430 W 28th St, Cleveland, OH 44113",
+    "neighborhood": "Ohio City (Hingetown)",
+    "type": "Vegan-Friendly",
+    "vegan_options": "Savory lentil doughnuts, Indian-spiced vegetable dishes, plant-based shareable small plates",
+    "deal": "",
+    "hours": "Mon–Thu 4–10pm, Fri–Sat 4–11pm",
+    "coordinates": [
+      41.4851,
+      -81.7023
+    ]
+  },
+  {
+    "id": "beet-jar",
+    "name": "Beet Jar",
+    "address": "2600 Detroit Ave, Cleveland, OH 44113",
+    "neighborhood": "Ohio City",
+    "type": "100% Vegan",
+    "vegan_options": "Bravocado sandwich (avocado, smoked coconut, cashew mayo), herb chickpea wrap, cold-pressed juices, Phat Beets smoothie",
+    "deal": "",
+    "hours": "Tue–Fri 7am–3pm, Sat–Sun 8am–3pm",
+    "coordinates": [
+      41.491,
+      -81.7115
+    ]
+  },
+  {
+    "id": "green-goat-cafe-bar",
+    "name": "Green Goat Cafe Bar",
+    "address": "2125 Superior Ave, Cleveland, OH 44114",
+    "neighborhood": "Downtown Cleveland",
+    "type": "Vegan Health Food",
+    "vegan_options": "Organic veggie burger, power smoothies, build-your-own salads, avocado toast, vegan & GF bowls",
+    "deal": "",
+    "hours": "Mon–Fri 7am–4pm, Sat–Sun 8am–4pm",
+    "coordinates": [
+      41.507814,
+      -81.678114
+    ]
+  },
+  {
+    "id": "milky-way-cleveland",
+    "name": "Milky Way Cleveland",
+    "address": "1980 Warrensville Center Rd, South Euclid, OH 44121",
+    "neighborhood": "South Euclid",
+    "type": "Vegan-Friendly",
+    "vegan_options": "Vegan pizza, falafel wraps, vegan sandwiches, plant-based faux chicken — kosher certified",
+    "deal": "",
+    "hours": "Sun–Thu 7am–8pm, Fri 7am–2pm",
+    "coordinates": [
+      41.505707,
+      -81.53691
+    ]
+  },
+  {
+    "id": "juicy-vegan",
+    "name": "Juicy Vegan",
+    "address": "15430 Waterloo Rd, Cleveland, OH 44110",
+    "neighborhood": "North Collinwood",
+    "type": "100% Vegan",
+    "vegan_options": "Juicy Philly Box, sweet potato fries, vegan sandwiches, smoothies — nut-free menu",
+    "deal": "",
+    "hours": "Mon 12–8pm, Tue 12–6pm, Wed–Fri 12–8pm, Sat 8am–6pm",
+    "coordinates": [
+      41.57022,
+      -81.57254
+    ]
+  },
+  {
+    "id": "cloak-and-dagger",
+    "name": "Cloak & Dagger",
+    "address": "2399 W 11th St, Cleveland, OH 44113",
+    "neighborhood": "Tremont",
+    "type": "100% Vegan",
+    "vegan_options": "Fried oyster mushroom po' boy, Buffalo Fresno chile pepper 'chicken' skewers, seasonal rotating vegan menu",
+    "deal": "",
+    "hours": "Tue–Thu & Sun 4pm–12am, Fri–Sat 4pm–1am (kitchen closes 10pm)",
+    "coordinates": [
+      41.4823,
+      -81.6975
+    ]
+  },
+  {
+    "id": "lulo-kitchen",
+    "name": "LULO Kitchen & Juice Bar",
+    "address": "1273 W 9th St, Cleveland, OH 44113",
+    "neighborhood": "Downtown Cleveland",
+    "type": "Vegan-Friendly",
+    "vegan_options": "Quinoa ceviche, plant-based Latin-fusion bowls, cold-pressed juices, papaya balsamic salads",
+    "deal": "",
+    "hours": "Mon–Tue 10am–9pm, Fri–Sat 10am–11pm",
+    "coordinates": [
+      41.4993,
+      -81.6976
+    ]
+  },
+  {
+    "id": "squash-the-beef",
+    "name": "Squash the Beef",
+    "address": "2207 Chester Ave, Cleveland, OH 44114",
+    "neighborhood": "Midtown Cleveland",
+    "type": "100% Vegan",
+    "vegan_options": "Comfort Burger, BBQ jackfruit dinner, meatless meatloaf, vegan mac and cheese, fried chick'n, jackfruit sliders",
+    "deal": "",
+    "hours": "Tue–Fri 11am–7pm",
+    "coordinates": [
+      41.504063,
+      -81.67455
+    ]
+  },
+  {
+    "id": "conveniently-vegan",
+    "name": "Conveniently Vegan",
+    "address": "15765 Broadway Ave, Maple Heights, OH 44137",
+    "neighborhood": "Maple Heights",
+    "type": "100% Vegan",
+    "vegan_options": "Steak Philly egg rolls, jerk quesadillas, royal burger with Impossible/Beyond meat, soul food comfort plates",
+    "deal": "",
+    "hours": "Mon–Fri 11am–7pm",
+    "coordinates": [
+      41.4185,
+      -81.5731
+    ]
+  },
+  {
+    "id": "fengfit-foods",
+    "name": "FengFit Foods",
+    "address": "31200 Pinetree Rd, Pepper Pike, OH 44124",
+    "neighborhood": "Pepper Pike",
+    "type": "100% Vegan",
+    "vegan_options": "FengFit Veggie Burger (black bean, mushroom, chickpea), Roasted Tofu Steak with avocado, whole-grain bowls — no refined sugar",
+    "deal": "",
+    "hours": "Mon–Wed & Fri 8:30am–6pm, Thu 9am–6pm, Sat 9am–3pm",
+    "coordinates": [
+      41.4736,
+      -81.4682
+    ]
   }
 ]
