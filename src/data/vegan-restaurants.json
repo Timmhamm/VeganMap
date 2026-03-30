@@ -1,0 +1,189 @@
+[
+  {
+    "id": "umami-gorilla",
+    "name": "Umami Gorilla",
+    "address": "811 Scott St, Wilkes-Barre, PA 18705",
+    "neighborhood": "Parsons / East Side",
+    "type": "100% Vegan",
+    "vegan_options": "Buffalo Chicken Cheezesteak (seitan), BBQ Jackfruit Sandwich, Fried Chick'n, KFC-style Bowl, house-made vegan milkshakes — fully vegan menu",
+    "deal": "Delivery via DoorDash",
+    "hours": "Wed–Thu 12–8pm, Fri 3–8pm, Sat 12–8pm, Sun 11am–4pm",
+    "coordinates": [41.2549, -75.8483]
+  },
+  {
+    "id": "eden-a-vegan-cafe",
+    "name": "Eden-a Vegan Cafe",
+    "address": "136 S Main St, Wilkes-Barre, PA 18701",
+    "neighborhood": "Downtown Wilkes-Barre",
+    "type": "100% Vegan",
+    "vegan_options": "Dairy-free vegan pizza, meatless burgers, veggie buffalo wings, vegan stromboli, vegan desserts — fully vegan menu",
+    "deal": "Online ordering via Toast",
+    "hours": "Wed–Fri 11:30am–6pm, Sat–Sun 11:30am–8pm",
+    "coordinates": [41.2433, -75.8863]
+  },
+  {
+    "id": "nucleus-raw-foods",
+    "name": "Nucleus Raw Foods",
+    "address": "63 Main St, Luzerne, PA 18709",
+    "neighborhood": "Luzerne Borough",
+    "type": "100% Raw Vegan",
+    "vegan_options": "Raw vegan tacos, burgers & pizza, vegan crab cakes, nachos, smoothie bowls, cold-pressed juices — everything raw, vegan, gluten-free, soy-free, organic",
+    "deal": "Free Wi-Fi; eat-in lounge seating",
+    "hours": "Tue–Sat 10am–4pm",
+    "coordinates": [41.2857, -75.9021]
+  },
+  {
+    "id": "corelife-eatery",
+    "name": "CoreLife Eatery",
+    "address": "33 Bear Creek Blvd, Wilkes-Barre, PA 18702",
+    "neighborhood": "Bear Creek / Township",
+    "type": "Vegan-Friendly",
+    "vegan_options": "Build-your-own green bowls, grain bowls & broth bowls; roasted tofu, baked falafel; all vegan ingredients clearly labeled",
+    "deal": "Online ordering & delivery available",
+    "hours": "Mon–Sun 11am–8pm",
+    "coordinates": [41.2467, -75.8359]
+  },
+  {
+    "id": "red-leaf-salad-company",
+    "name": "Red Leaf Salad Company",
+    "address": "413 Arena Hub Plaza, Wilkes-Barre, PA 18702",
+    "neighborhood": "Arena Hub / Township",
+    "type": "Vegan-Friendly",
+    "vegan_options": "Build-your-own salads, grain bowls & wraps; chickpea burger; dozens of plant-based toppings, each labeled vegan/GF/dairy-free",
+    "deal": "Online ordering via Toast; delivery available",
+    "hours": "Mon–Sat 11am–8pm, Sun 11am–3pm",
+    "coordinates": [41.2403, -75.8399]
+  },
+  {
+    "id": "istanbul-grill",
+    "name": "Istanbul Grill",
+    "address": "40 S Main St, Wilkes-Barre, PA 18701",
+    "neighborhood": "Downtown Wilkes-Barre",
+    "type": "Vegan-Friendly",
+    "vegan_options": "Falafel plates & wraps, hummus, baba ganoush, dolma (stuffed grape leaves), grilled veggie plates, spinach pide, shepherd's salad",
+    "deal": "Delivery via Grubhub & DoorDash",
+    "hours": "Mon–Fri 7:30am–9pm, Sat 11am–9pm",
+    "coordinates": [41.2447, -75.8837]
+  },
+  {
+    "id": "thai-thai",
+    "name": "Thai Thai Restaurant",
+    "address": "41 S Main St, Wilkes-Barre, PA 18701",
+    "neighborhood": "Downtown Wilkes-Barre",
+    "type": "Vegan-Friendly",
+    "vegan_options": "Pad Thai with tofu, fried rice with tofu & veggies, sautéed eggplant & tofu with chili & basil, Thai spring rolls, coconut herb soup — 20+ vegan lunch specials",
+    "deal": "Lunch specials Mon–Fri; reservations via OpenTable",
+    "hours": "Mon–Thu 11am–3pm & 4:30–9pm, Fri 11am–3pm & 4:30–9:30pm, Sat–Sun 12–9pm",
+    "coordinates": [41.2450, -75.8840]
+  },
+  {
+    "id": "jasmine-thai",
+    "name": "Jasmine Thai Restaurant & Lounge",
+    "address": "216 N River St, Wilkes-Barre, PA 18702",
+    "neighborhood": "North WB / River District",
+    "type": "Vegan-Friendly",
+    "vegan_options": "Vegan pad thai, vegetable fried rice with tofu, Thai spring rolls, sautéed eggplant & tofu, coconut herb soup — vegan dishes clearly marked",
+    "deal": "Delivery via Grubhub; $20 for $40 deal on Clipp.com",
+    "hours": "Tue–Thu 11am–3pm & 4:30–9pm, Fri 11am–3pm & 4:30–10pm, Sat–Sun 1–9/10pm",
+    "coordinates": [41.2521, -75.8775]
+  },
+  {
+    "id": "petes-place",
+    "name": "Pete's Place Middle Eastern",
+    "address": "35 E South St, Wilkes-Barre, PA 18701",
+    "neighborhood": "Downtown / South Side",
+    "type": "Vegan-Friendly",
+    "vegan_options": "Falafel, hummus, grape leaves (dolma), tabouli salad, baba ghanouj — primarily vegetarian/vegan menu",
+    "deal": "Delivery via Uber Eats",
+    "hours": "Tue–Fri 10am–5pm",
+    "coordinates": [41.2416, -75.8873]
+  },
+  {
+    "id": "gerrys-pizzeria",
+    "name": "Gerry's Pizzeria",
+    "address": "496 Carey Ave, Wilkes-Barre, PA 18702",
+    "neighborhood": "Parsons / South WB",
+    "type": "Vegan-Friendly",
+    "vegan_options": "Vegan pizza with Daiya cheese (request when ordering), customizable veggie-loaded pies",
+    "deal": "Affordable local pricing; delivery available",
+    "hours": "Tue–Thu 4–10pm, Fri 11am–10pm, Sat–Sun 4–10pm",
+    "coordinates": [41.2375, -75.9133]
+  },
+  {
+    "id": "chipotle",
+    "name": "Chipotle Mexican Grill",
+    "address": "280 Mundy St, Wilkes-Barre, PA 18702",
+    "neighborhood": "Mundy St / Township",
+    "type": "Vegan-Friendly",
+    "vegan_options": "Sofritas (spiced organic tofu), black beans, pinto beans, fajita veggies, guacamole — build-your-own vegan burrito bowls, burritos & tacos; full vegan Lifestyle Bowl on app",
+    "deal": "Chipotle Rewards loyalty; free delivery on app orders",
+    "hours": "Mon–Sun 10:45am–11pm",
+    "coordinates": [41.2500, -75.8398]
+  },
+  {
+    "id": "panera-bread",
+    "name": "Panera Bread",
+    "address": "3570 Wilkes Barre Township Commons, Wilkes-Barre, PA 18702",
+    "neighborhood": "Township Commons",
+    "type": "Vegan-Friendly",
+    "vegan_options": "Ten Vegetable Soup, Mediterranean Bowl (no feta), Baja Bowl (no feta), Steel Cut Oatmeal with Strawberries & Pecans, salads customizable vegan",
+    "deal": "MyPanera loyalty rewards; Unlimited Sip Club",
+    "hours": "Mon–Sat 7am–10pm, Sun 7am–9pm",
+    "coordinates": [41.2398, -75.8442]
+  },
+  {
+    "id": "food-trail",
+    "name": "Food Trail Indian Restaurant",
+    "address": "220 East End Ctr, Wilkes-Barre Township, PA 18702",
+    "neighborhood": "East End / Township",
+    "type": "Vegan-Friendly",
+    "vegan_options": "Indo-Chinese, South Indian & Punjabi dishes; dosas, vegetable curries, dal (lentil dishes), South Indian rice dishes — many naturally vegan options",
+    "deal": "Delivery via Uber Eats",
+    "hours": "Mon–Sun 11am–9pm",
+    "coordinates": [41.2412, -75.8458]
+  },
+  {
+    "id": "wegmans",
+    "name": "Wegmans",
+    "address": "220 Highland Park Blvd, Wilkes-Barre, PA 18702",
+    "neighborhood": "Highland Park / Township",
+    "type": "Vegan Options",
+    "vegan_options": "Hot food bar with rotating vegan options, gluten-free vegan pizza, prepared vegan grab-and-go meals, full vegan grocery aisles — store brand items labeled with green 'V'",
+    "deal": "Wegmans app for digital coupons & loyalty pricing",
+    "hours": "Mon–Sun 6am–12am",
+    "coordinates": [41.2367, -75.8613]
+  },
+  {
+    "id": "house-of-nutrition",
+    "name": "House of Nutrition",
+    "address": "50 Main St, Luzerne, PA 18709",
+    "neighborhood": "Luzerne Borough",
+    "type": "Vegan Health Food",
+    "vegan_options": "Homemade organic vegan soups, vegan sandwiches & salads, Chick'N Smoked Tempeh Ranch Wraps, rotating vegan prepared foods from in-house Mill Hollow Bakery, full natural grocery",
+    "deal": "Natural grocery pricing; bulk section available",
+    "hours": "Mon–Fri 9am–6pm, Sat 10am–5pm",
+    "coordinates": [41.2830, -75.8935]
+  },
+  {
+    "id": "hummus-and-honey",
+    "name": "Hummus & Honey",
+    "address": "285 Wyoming Ave, Kingston, PA 18704",
+    "neighborhood": "Kingston (1 mi from downtown WB)",
+    "type": "Vegan-Friendly",
+    "vegan_options": "House-made hummus, baba ganoush, tabbouleh, falafel, veggie grape leaves, freshly made Mediterranean plant-based dishes daily",
+    "deal": "Daily specials; catering available; online ordering",
+    "hours": "Mon–Fri 11am–6pm (Wed closes 3pm), Sat 12–4pm",
+    "coordinates": [41.2752, -75.8825]
+  },
+  {
+    "id": "harvest-seasonal-grill",
+    "name": "Harvest Seasonal Grill & Wine Bar",
+    "address": "1000 Montage Mountain Rd, Moosic, PA 18507",
+    "neighborhood": "Moosic (~5 mi north of WB)",
+    "type": "Vegan-Friendly",
+    "vegan_options": "Garden Vegan Delight (falafel, tabbouleh, baba ghanoush, pita), seasonally rotating vegan entrees & salads clearly labeled — farm-to-table, locally sourced",
+    "deal": "Happy hour specials on wine & cocktails; seasonal menus; reservations via OpenTable",
+    "hours": "Mon–Thu 11:30am–9pm, Fri–Sat 11:30am–10pm, Sun 10am–9pm",
+    "coordinates": [41.3101, -75.7154]
+  }
+]
