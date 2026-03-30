@@ -866,5 +866,313 @@
       42.3296,
       -83.0572
     ]
+  },
+  {
+    "id": "avant-garden-east-village",
+    "name": "Avant Garden",
+    "address": "95 Avenue A, New York, NY 10009",
+    "neighborhood": "East Village",
+    "type": "100% Vegan",
+    "vegan_options": "Seasonal upscale plant-based small plates, natural wines, craft cocktails; rotating dishes featuring vegetables, grains, and legumes in elevated preparations",
+    "deal": "",
+    "hours": "Mon–Sun 5pm–11pm",
+    "coordinates": [
+      40.7264,
+      -73.9815
+    ]
+  },
+  {
+    "id": "hangawi-koreatown",
+    "name": "HanGawi",
+    "address": "12 E 32nd St, New York, NY 10016",
+    "neighborhood": "Koreatown",
+    "type": "100% Vegan",
+    "vegan_options": "Emperor's Tasting prix fixe, Combination Pancakes (kimchi-mushroom, kabocha-mung bean), Crispy Mushrooms in sweet & sour sauce, Avocado Stone Bowl Rice, Emperor's Rolls, ssam bap with seasonal greens",
+    "deal": "Emperor's Tasting Menu (6-course prix fixe, changes monthly)",
+    "hours": "Mon–Fri 5–9:30pm; Sat–Sun 1–9:30pm",
+    "coordinates": [
+      40.7474,
+      -73.9862
+    ]
+  },
+  {
+    "id": "franchia-vegan-cafe",
+    "name": "Franchia Vegan Cafe",
+    "address": "12 Park Ave, New York, NY 10016",
+    "neighborhood": "Murray Hill",
+    "type": "100% Vegan",
+    "vegan_options": "Bibimbap, Korean seaweed rice rolls, noodle dishes, tofu and vegetable entrees — Asian fusion inspired by Korean, Chinese, Thai, Vietnamese, and Malaysian cuisines",
+    "deal": "",
+    "hours": "Mon–Thu 12–9pm; Fri–Sat 12–9:30pm; Sun 12–9pm",
+    "coordinates": [
+      40.749,
+      -73.9837
+    ]
+  },
+  {
+    "id": "bodhi-kosher-vegetarian",
+    "name": "Bodhi Kosher Vegetarian Restaurant",
+    "address": "77 Mulberry St, New York, NY 10013",
+    "neighborhood": "Chinatown",
+    "type": "100% Vegan",
+    "vegan_options": "200-dish rotating menu: Vegan Ma-Po Tofu, Vegan Kung Pao Chicken, Vegan Pork Buns, Vegan Seabass in Black Bean Sauce, dim sum specialties",
+    "deal": "",
+    "hours": "Mon–Sun 11am–9:45pm",
+    "coordinates": [
+      40.7148,
+      -74.0007
+    ]
+  },
+  {
+    "id": "dirt-candy",
+    "name": "Dirt Candy",
+    "address": "86 Allen St, New York, NY 10002",
+    "neighborhood": "Lower East Side",
+    "type": "100% Vegan",
+    "vegan_options": "Five-course seasonal tasting menu — innovative vegetable-forward dishes that change with the season; Michelin one-star",
+    "deal": "Optional wine pairing ",
+    "hours": "Tue–Sat 5:30–10:30pm",
+    "coordinates": [
+      40.7162,
+      -73.99
+    ]
+  },
+  {
+    "id": "beyond-sushi-herald-square",
+    "name": "Beyond Sushi – Herald Square",
+    "address": "134 W 37th St, New York, NY 10018",
+    "neighborhood": "Herald Square",
+    "type": "100% Vegan",
+    "vegan_options": "Plant-based sushi rolls, maki, nigiri, dumplings, bao buns, ramen, cauliflower wings; desserts include Pandan Mousse Cake and Ube Cheesecake; kosher certified",
+    "deal": "Weekday lunch specials Mon–Fri 11:30am–3pm",
+    "hours": "Mon–Thu 11:30am–9:30pm; Fri–Sat 11:30am–10:30pm; Sun 11:30am–9:30pm",
+    "coordinates": [
+      40.7524,
+      -73.9921
+    ]
+  },
+  {
+    "id": "beyond-sushi-midtown-west",
+    "name": "Beyond Sushi – Midtown West",
+    "address": "62 W 56th St, New York, NY 10019",
+    "neighborhood": "Midtown West",
+    "type": "100% Vegan",
+    "vegan_options": "Plant-based sushi, maki rolls, dumplings, ramen, bao buns, seasonal small plates — 100% vegan and kosher certified",
+    "deal": "",
+    "hours": "Mon–Sun 11:30am–9:30pm",
+    "coordinates": [
+      40.7634,
+      -73.978
+    ]
+  },
+  {
+    "id": "planta-queen-nomad",
+    "name": "PLANTA Queen",
+    "address": "15 W 27th St, New York, NY 10001",
+    "neighborhood": "NoMad",
+    "type": "100% Vegan",
+    "vegan_options": "Vegan sushi, nigiri, handrolls, Asian-inspired handhelds, pasta, seasonal grain bowls; extensive gluten-free options",
+    "deal": "Happy Hour: specialty cocktails, vegan sushi & shareable bites at reduced prices",
+    "hours": "Mon–Thu 11:30am–10pm; Fri 11:30am–11pm; Sat–Sun 11am–10/11pm",
+    "coordinates": [
+      40.7444,
+      -73.9893
+    ]
+  },
+  {
+    "id": "ps-kitchen-hells-kitchen",
+    "name": "P.S. Kitchen",
+    "address": "246 W 48th St, New York, NY 10036",
+    "neighborhood": "Hell's Kitchen",
+    "type": "100% Vegan",
+    "vegan_options": "Maitake wings, buffalo chicken sandwich, vegan lasagna, P.S. Beyond Burger, French-inspired comfort food — 100% profits donated to charity",
+    "deal": "",
+    "hours": "Daily 11am–11pm",
+    "coordinates": [
+      40.7601,
+      -73.9871
+    ]
+  },
+  {
+    "id": "urban-vegan-kitchen-chelsea",
+    "name": "Urban Vegan Kitchen",
+    "address": "265 W 23rd St, New York, NY 10011",
+    "neighborhood": "Chelsea",
+    "type": "100% Vegan",
+    "vegan_options": "Golden Era Chick-un & Waffles, vegan brunch specials, globally inspired comfort food, full bar with cocktails and mocktails; kosher certified",
+    "deal": "Happy Hour Mon–Fri 5pm–close; Weekend brunch with  mimosas",
+    "hours": "Mon–Thu 11am–10pm; Fri 11am–11pm; Sat 10am–11pm; Sun 10am–10pm",
+    "coordinates": [
+      40.7452,
+      -74
+    ]
+  },
+  {
+    "id": "ladybird-east-village",
+    "name": "Ladybird",
+    "address": "111 E 7th St, New York, NY 10009",
+    "neighborhood": "East Village",
+    "type": "100% Vegan",
+    "vegan_options": "Kimchi arancini, corn ribs, General Tso cauliflower, Buffalo Maitake Buns, Kimchi Mac & Cheese, dumplings, bao buns trio — extensive cocktail and wine list",
+    "deal": "Weekend brunch Sat–Sun 11am–3:30pm",
+    "hours": "Mon–Thu 5–10pm; Fri 5–11pm; Sat–Sun brunch 11am–3:30pm & dinner 5–11pm",
+    "coordinates": [
+      40.7264,
+      -73.9837
+    ]
+  },
+  {
+    "id": "may-kaidee",
+    "name": "May Kaidee",
+    "address": "215 E Broadway, New York, NY 10002",
+    "neighborhood": "Lower East Side",
+    "type": "100% Vegan",
+    "vegan_options": "100% plant-based Thai: Pad Thai, Green Papaya Salad, Panang Curry, Drunken Noodles, Tom Yam soup — mostly gluten-free",
+    "deal": "",
+    "hours": "Mon–Fri 5–11pm; Sat–Sun 12:30–11pm",
+    "coordinates": [
+      40.7133,
+      -73.9897
+    ]
+  },
+  {
+    "id": "uptown-veg",
+    "name": "Uptown Veg",
+    "address": "52 E 125th St, New York, NY 10035",
+    "neighborhood": "East Harlem",
+    "type": "Vegan Health Food",
+    "vegan_options": "Fresh juices and smoothies, vegan chicken curry, Philly cheesesteak, burgers, wraps, soups, salads, pastries, raw food options — gluten-free and organic",
+    "deal": "",
+    "hours": "Mon–Sun 10am–8pm",
+    "coordinates": [
+      40.804,
+      -73.9353
+    ]
+  },
+  {
+    "id": "veganhood-harlem",
+    "name": "VeganHood",
+    "address": "2100 Frederick Douglass Blvd, New York, NY 10026",
+    "neighborhood": "Central Harlem",
+    "type": "100% Vegan",
+    "vegan_options": "Vegan soul food and Caribbean: rosemary cilantro fries with house-made cheese sauce, vegan shrimp pasta with jerk seasoning in cream sauce, vegan chicken sandwich with buffalo sauce",
+    "deal": "",
+    "hours": "Mon–Thu 11:30am–11pm; Fri–Sat 11:30am–midnight; Sun 11:30am–8pm",
+    "coordinates": [
+      40.8053,
+      -73.9543
+    ]
+  },
+  {
+    "id": "ras-plant-based",
+    "name": "RAS Plant Based",
+    "address": "739 Franklin Ave, Brooklyn, NY 11238",
+    "neighborhood": "Crown Heights, Brooklyn",
+    "type": "100% Vegan",
+    "vegan_options": "Vegan Ethiopian: Mercato & Piassa Platters, Yatakilt (cabbage, carrot, onion), Gomen (braised collards), Shiro (ground chickpeas), Sambusa, Mushroom Tibs — kosher certified",
+    "deal": "",
+    "hours": "Mon–Thu 12–10pm; Fri 12–11pm; Sat 11am–11pm; Sun 11am–10pm",
+    "coordinates": [
+      40.6696,
+      -73.9568
+    ]
+  },
+  {
+    "id": "toad-style",
+    "name": "Toad Style",
+    "address": "93 Ralph Ave, Brooklyn, NY 11221",
+    "neighborhood": "Bed-Stuy, Brooklyn",
+    "type": "100% Vegan",
+    "vegan_options": "Scratch-made vegan deli: Cowgirl Burger with avocado & jalapeños, Buffalo Ranch Cauliflower Sub, vegan breakfast burrito — all condiments made in-house; soy-free, non-GMO",
+    "deal": "",
+    "hours": "Mon–Sun 10am–11pm",
+    "coordinates": [
+      40.6875,
+      -73.9239
+    ]
+  },
+  {
+    "id": "aunts-et-uncles",
+    "name": "Aunts et Uncles",
+    "address": "1407 Nostrand Ave, Brooklyn, NY 11226",
+    "neighborhood": "East Flatbush, Brooklyn",
+    "type": "100% Vegan",
+    "vegan_options": "Plant-based Caribbean and Southern American comfort food — veganized classics with Caribbean flair; breakfast, lunch, and dinner",
+    "deal": "",
+    "hours": "Sun–Wed 10am–8pm; Thu–Sat 10am–10pm",
+    "coordinates": [
+      40.6441,
+      -73.9502
+    ]
+  },
+  {
+    "id": "candle-kips-bay",
+    "name": "Candle",
+    "address": "388 3rd Ave, New York, NY 10016",
+    "neighborhood": "Kips Bay",
+    "type": "100% Vegan",
+    "vegan_options": "Seitan piccata, vegetable paella with smoky seitan sausage, inventive seasonal salads, chocolate brownie sundaes with house-made vegan ice cream",
+    "deal": "",
+    "hours": "Mon–Sat 11am–10:30pm; Sun 11am–9:30pm",
+    "coordinates": [
+      40.7432,
+      -73.9827
+    ]
+  },
+  {
+    "id": "nanas-a-vegan-bronx",
+    "name": "Nana's A Vegan",
+    "address": "610 Exterior St Fl 4, Bronx, NY 10451",
+    "neighborhood": "Concourse Village, Bronx",
+    "type": "100% Vegan",
+    "vegan_options": "Vegan soul food: vegan shrimp po' boy sandwiches, vegan seafood mac and cheese, Southern comfort classics — located in Bronx Terminal Market",
+    "deal": "",
+    "hours": "Wed–Thu 2–7pm; Fri–Sat 2–8pm",
+    "coordinates": [
+      40.8175,
+      -73.9244
+    ]
+  },
+  {
+    "id": "bodhi-village-flushing",
+    "name": "Bodhi Village",
+    "address": "136-20 Booth Memorial Ave, Flushing, NY 11355",
+    "neighborhood": "Flushing, Queens",
+    "type": "100% Vegan",
+    "vegan_options": "Chinese Buddhist vegetarian: dim sum, noodle soups, Singapore rice noodles, spring rolls, fried milk, General Tso's Vegetable Beef, Sesame Vegetable Beef — kosher certified",
+    "deal": "",
+    "hours": "Mon–Sun 11am–9pm",
+    "coordinates": [
+      40.7392,
+      -73.8271
+    ]
+  },
+  {
+    "id": "urban-vegan-roots-astoria",
+    "name": "Urban Vegan Roots",
+    "address": "34-47 31st St, Astoria, NY 11106",
+    "neighborhood": "Astoria, Queens",
+    "type": "100% Vegan",
+    "vegan_options": "Globally inspired plant-based dishes and cocktails; diverse menu drawing from international cuisines; full bar",
+    "deal": "",
+    "hours": "Wed–Thu 3:30–9pm; Fri 3:30–10pm; Sat–Sun 11am–10pm",
+    "coordinates": [
+      40.7709,
+      -73.9311
+    ]
+  },
+  {
+    "id": "natures-grill-cafe-staten-island",
+    "name": "Nature's Grill Cafe",
+    "address": "4115 Hylan Blvd, Staten Island, NY 10308",
+    "neighborhood": "Great Kills, Staten Island",
+    "type": "Vegan-Friendly",
+    "vegan_options": "Beyond Burger with vegan cheese, pico de gallo & avocado; vegan wrap with hummus, avocado & sprouts; fresh juices, smoothies, healthy bowls — certified organic ingredients",
+    "deal": "",
+    "hours": "Mon–Thu 11am–9pm; Fri–Sat 11am–midnight; Sun 11am–9pm",
+    "coordinates": [
+      40.5443,
+      -74.1502
+    ]
   }
 ]
