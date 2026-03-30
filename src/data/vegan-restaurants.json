@@ -11,8 +11,8 @@
     "coordinates": [41.2549, -75.8483]
   },
   {
-    "id": "eden-a-vegan-cafe",
-    "name": "Eden-a Vegan Cafe",
+    "id": "eden-a-vegan-cafe-wb",
+    "name": "Eden-a Vegan Cafe (Wilkes-Barre)",
     "address": "136 S Main St, Wilkes-Barre, PA 18701",
     "neighborhood": "Downtown Wilkes-Barre",
     "type": "100% Vegan",
@@ -185,5 +185,170 @@
     "deal": "Happy hour specials on wine & cocktails; seasonal menus; reservations via OpenTable",
     "hours": "Mon–Thu 11:30am–9pm, Fri–Sat 11:30am–10pm, Sun 10am–9pm",
     "coordinates": [41.3101, -75.7154]
+  },
+  {
+    "id": "fork-n-bowl",
+    "name": "Fork 'N' Bowl",
+    "address": "305 Penn Ave, Scranton, PA 18503",
+    "neighborhood": "Downtown Scranton",
+    "type": "Vegan-Friendly",
+    "vegan_options": "Build-your-own bowls on a 100% gluten-free menu; vegan bases include coconut rice, sweet potato noodles, kale Caesar; vegan proteins, roasted veggies, avocado, corn salsa, plant-based sauces",
+    "deal": "Delivery via DoorDash & Postmates; online ordering at forknbowl.com",
+    "hours": "Mon–Fri 11am–6:30pm, Sat 11am–5pm, Sun closed",
+    "coordinates": [41.4111, -75.6650]
+  },
+  {
+    "id": "the-salad-shop",
+    "name": "The Salad Shop",
+    "address": "316 Penn Ave, Scranton, PA 18503",
+    "neighborhood": "Downtown Scranton",
+    "type": "Vegan-Friendly",
+    "vegan_options": "Custom salads & wraps with 70+ fresh toppings and 30+ dressings; all vegan toppings available; house-made rotating vegan soups; every item made to order",
+    "deal": "Delivery via DoorDash; online ordering",
+    "hours": "Mon–Fri 11am–7pm, Sat 11am–3pm, Sun closed",
+    "coordinates": [41.4112, -75.6648]
+  },
+  {
+    "id": "thai-rak-thai",
+    "name": "Thai Rak Thai Restaurant",
+    "address": "349 Adams Ave, Scranton, PA 18503",
+    "neighborhood": "Downtown Scranton",
+    "type": "Vegan-Friendly",
+    "vegan_options": "Tofu pad thai, vegetable fried rice, green/red/yellow curry with tofu, tom kha soup (coconut milk), sautéed eggplant with tofu & basil, spring rolls — all dishes customizable vegan with tofu or mixed veggies; marked 'Vegan Welcome'",
+    "deal": "BYOB (no corkage fee); delivery via GrubHub, Uber Eats & DoorDash",
+    "hours": "Mon–Sat 11am–3pm & 4:30–9:30pm, Sun closed",
+    "coordinates": [41.4097, -75.6649]
+  },
+  {
+    "id": "the-garden-restaurant",
+    "name": "The Garden Restaurant",
+    "address": "109 N Washington Ave, Scranton, PA 18503",
+    "neighborhood": "Downtown Scranton",
+    "type": "Vegan-Friendly",
+    "vegan_options": "Lebanese-inspired vegan dishes: hummus, baba ganoush, falafel plates, lentil soup, stuffed grape leaves, fattoush salad, tabbouleh, roasted vegetable mezze, handmade flatbreads — old-world family recipes",
+    "deal": "Delivery via DoorDash; halal-certified",
+    "hours": "Mon 10am–10pm, Tue closed, Wed–Sun 10am–10pm",
+    "coordinates": [41.4071, -75.6647]
+  },
+  {
+    "id": "noir-dark-spirits",
+    "name": "Noir Dark Spirits",
+    "address": "222 Wyoming Ave, Scranton, PA 18503",
+    "neighborhood": "Downtown Scranton (Historic Ritz Theater)",
+    "type": "Vegan-Friendly",
+    "vegan_options": "Vegan black bean burger (available as substitute for all burgers), vegan chicken protein add-on, buffalo flatbread with vegan chicken, small-plate creative bites with vegan/GF options — menu rotates seasonally",
+    "deal": "Craft cocktail bar; 18+ only; reservations recommended via website",
+    "hours": "Wed–Sat 5pm–11pm, Sun–Tue closed",
+    "coordinates": [41.4094, -75.6633]
+  },
+  {
+    "id": "zummos-cafe",
+    "name": "Zummo's Cafe",
+    "address": "918 Marion St, Scranton, PA 18509",
+    "neighborhood": "Green Ridge / North Scranton",
+    "type": "Vegan-Friendly",
+    "vegan_options": "Vegan peanut butter balls, vegan cupcakes & baked goods, daily rotating vegan sandwiches, soups & salads, vegan-friendly acai bowls; sourced from local PA roasters",
+    "deal": "Coffee loyalty program; local Electric City Roasting Co. beans",
+    "hours": "Mon–Sun 6:30am–6pm",
+    "coordinates": [41.4258, -75.6495]
+  },
+  {
+    "id": "coopers-seafood-house",
+    "name": "Cooper's Seafood House",
+    "address": "701 N Washington Ave, Scranton, PA 18509",
+    "neighborhood": "North Scranton",
+    "type": "Vegan Options",
+    "vegan_options": "Veggie burger (lettuce, tomato, onions, roasted red pepper mayo — request without mayo for vegan), garden salads, sides including french fries, applesauce, and vegetable of the day — limited but available",
+    "deal": "Family dining; takeout & delivery via DoorDash; as seen on The Office",
+    "hours": "Mon–Thu 12–9pm, Fri–Sat 12–10pm, Sun 12–9pm",
+    "coordinates": [41.4147, -75.6612]
+  },
+  {
+    "id": "buona-pizza",
+    "name": "Buona Pizza",
+    "address": "504 Lackawanna Ave, Scranton, PA 18503",
+    "neighborhood": "Downtown Scranton",
+    "type": "Vegan Options",
+    "vegan_options": "Customizable NY-style vegan pizza — request no cheese; veggie toppings include mushrooms, onions, sweet peppers, black olives, roasted peppers; plain tomato sauce pies available",
+    "deal": "Affordable family pricing; online ordering",
+    "hours": "Tue–Thu 11am–9pm, Fri 11am–10pm, Sat 12–10pm, Sun 12–9pm, Mon closed",
+    "coordinates": [41.4082, -75.6640]
+  },
+  {
+    "id": "henrys-on-clay",
+    "name": "Henry's On Clay",
+    "address": "1600 Clay Ave, Scranton, PA 18510",
+    "neighborhood": "Hill Section / North Scranton",
+    "type": "Vegan-Friendly",
+    "vegan_options": "Build-your-own breakfast & lunch bowls; avocado toast, custom salads, vegan-friendly grain bases & roasted veggie toppings; note: soups contain chicken broth — ask server for vegan-safe items",
+    "deal": "Delivery via DoorDash; local neighborhood cafe vibe",
+    "hours": "Tue–Sat 7:30am–2:30pm, Sun–Mon closed",
+    "coordinates": [41.4219, -75.6558]
+  },
+  {
+    "id": "stirnas-restaurant",
+    "name": "Stirna's Restaurant & Bar",
+    "address": "120 W Market St, Scranton, PA 18508",
+    "neighborhood": "Providence Square / North Scranton",
+    "type": "Vegan Options",
+    "vegan_options": "Vegetarian pasta dishes, house salads, and vegetable sides adaptable to vegan on request; limited but available — family-run since 1908 with classic American menu",
+    "deal": "Bar specials; catering available; reservations accepted",
+    "hours": "Wed–Thu 4–9pm, Fri–Sat 4–10pm, Sun–Tue closed",
+    "coordinates": [41.4159, -75.6725]
+  },
+  {
+    "id": "yume-sushi",
+    "name": "Yume",
+    "address": "825 N Keyser Ave, Scranton, PA 18504",
+    "neighborhood": "Keyser Valley / North Scranton",
+    "type": "Vegan-Friendly",
+    "vegan_options": "Veggie sushi rolls (tofu, cucumber, squash, shiitake, avocado, oshinko, black sesame), edamame, seaweed salad, vegetable tempura (confirm oil), avocado rolls, cucumber rolls — vegan options on menu",
+    "deal": "Online ordering & delivery available; reservations via OpenTable",
+    "hours": "Tue–Sat 11:30am–2:30pm & 4:30–9pm, Sun 12–9pm, Mon closed",
+    "coordinates": [41.4173, -75.6532]
+  },
+  {
+    "id": "sake-japanese",
+    "name": "Sake Japanese Steak House Sushi & Bar",
+    "address": "1142 S Main Ave, Scranton, PA 18504",
+    "neighborhood": "South Scranton / Minooka",
+    "type": "Vegan-Friendly",
+    "vegan_options": "Vegetable sushi rolls, avocado & cucumber rolls, edamame, miso soup (confirm no dashi), vegetable hibachi with fried rice or noodles (request no butter/egg for vegan), house salad",
+    "deal": "Lunch specials; online ordering via website; delivery available",
+    "hours": "Tue–Sat 11am–10pm, Sun 12–9:30pm, Mon closed",
+    "coordinates": [41.3988, -75.6615]
+  },
+  {
+    "id": "alter-house",
+    "name": "Alter House Restaurant & Bar",
+    "address": "926 Lackawanna Trail, Clarks Summit, PA 18411",
+    "neighborhood": "Clarks Summit (~5 mi north of Scranton)",
+    "type": "Vegan-Friendly",
+    "vegan_options": "Seasonally rotating farm-to-table menu with clearly labeled vegan entrees; housemade vegetable dishes, grain-forward plates, vegan desserts — menu driven by local seasonal sourcing",
+    "deal": "Reservations via OpenTable; private dining available",
+    "hours": "Thu–Sat 5–9pm, Sun 12–7pm, Mon–Wed closed",
+    "coordinates": [41.4924, -75.7038]
+  },
+  {
+    "id": "maximum-zen-bakery",
+    "name": "Maximum Zen Bakery",
+    "address": "318 Davis St, Clarks Summit, PA 18411",
+    "neighborhood": "Clarks Summit (~5 mi north of Scranton)",
+    "type": "100% Vegan",
+    "vegan_options": "Fully plant-based bakery & cafe: vegan cookies, muffins, pastries, cakes & pies; vegan quiches, salads, sandwiches & wraps; smoothies and house-made juices — 100% vegetarian/vegan menu",
+    "deal": "Grab-and-go; catering orders available",
+    "hours": "Mon–Thu 11am–3pm, Fri 11am–5pm, Sat 11am–3pm, Sun closed",
+    "coordinates": [41.4884, -75.7047]
+  },
+  {
+    "id": "nucleus-raw-foods-wilkes-barre",
+    "name": "Nucleus Raw Foods (Wilkes-Barre)",
+    "address": "67-69 Public Square, Wilkes-Barre, PA 18701",
+    "neighborhood": "Downtown Wilkes-Barre",
+    "type": "100% Raw Vegan",
+    "vegan_options": "Raw vegan tacos, burgers, pizza, banana smoothies, cold-pressed juices — everything raw, vegan, gluten-free, soy-free, organic",
+    "deal": "Dine-in & takeout",
+    "hours": "Tue–Fri 10am–4pm, Sat–Sun & Mon closed",
+    "coordinates": [41.2462, -75.8841]
   }
 ]
